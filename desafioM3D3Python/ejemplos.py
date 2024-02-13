@@ -1,0 +1,8 @@
+nombre = input("ingrese nombre: ")
+edad = input("ingrese edad: ")
+puesto = input("ingrese puesto: ")
+carac1 = input("ingrese carac1: ")
+carac2 = input("ingrese carac1: ")
+carac3 = input("ingrese carac3: ")
+pasatiempo = input ("ingrese pasatiempo: ")
+print(f"Mi nombre es {nombre} tengo {edad} años y me desempeño como {puesto}.\n Soy {carac1},{carac2},{carac3}.\n Mi pasatiempo es {pasatiempo} y me gustaría poder jubilarme pronto.")
